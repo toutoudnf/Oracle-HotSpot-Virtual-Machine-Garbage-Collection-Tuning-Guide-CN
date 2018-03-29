@@ -8,3 +8,21 @@ Oracle HotSpot JVM 调优指南中文版
 关于版本，选取的是 JDK8，截止到开始翻译，目前国内主流互联网公司对于 JDK 的生产环境应用更多的应该集中在 JDK8(或更低） 。目前看来后续 Java 的迭代版本也会加快（记得是半年一个版本迭代，区分 LTS 的方式，类似 RedHat）。愿 Java 在未来的道路上越来越棒吧~
 
 PS：任何问题可以 e-mail 我或者在 repo 开 issue 即可；我会尽快响应并回复的：）
+
+PSS:
+
+翻译进度表：
+
+|章节|翻译进度|翻译人|
+|---|---|---|
+|chapter01|TODO||
+|chapter02|TODO||
+|chapter03|TODO||
+|chapter04|TODO||
+|chapter05|TODO||
+|chapter06|TODO||
+|chapter07|TODO||
+|chapter08|DOING|toutoudnf@gmail.com|
+|chapter09|TODO||
+|chapter10|TODO||
+|chapter11|TODO||
